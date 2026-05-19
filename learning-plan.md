@@ -6,21 +6,25 @@
 
 Handbook 共 4 层、约 42 个章节。以下按优先级和投入时间规划。
 
-## 第一阶段：AI 基础速成（预计 1-2 周）
+## 第一阶段：AI 基础速成（✅ 已完成 — 2026-05-19）
 
 Web3 熟手优先补 AI 短板，重点理解模型能力边界和工具调用。
 
-| 顺序 | 章节 | 链接 | 优先级 |
-|------|------|------|--------|
-| 1 | LLM | https://aiweb3.school/zh/handbook/ai/llm/ | 高 |
-| 2 | Prompt | https://aiweb3.school/zh/handbook/ai/prompt/ | 高 |
-| 3 | Context | https://aiweb3.school/zh/handbook/ai/context/ | 高 |
-| 4 | RAG | https://aiweb3.school/zh/handbook/ai/rag/ | 中 |
-| 5 | Agent | https://aiweb3.school/zh/handbook/ai/agent/ | 高 |
-| 6 | MCP | https://aiweb3.school/zh/handbook/ai/mcp/ | 中 |
-| 7 | Frameworks | https://aiweb3.school/zh/handbook/ai/frameworks/ | 中 |
-| 8 | Vibe Coding | https://aiweb3.school/zh/handbook/ai/vibe-coding/ | 中 |
-| 9 | Evaluation | https://aiweb3.school/zh/handbook/ai/evaluation/ | 低 |
+| 顺序 | 章节 | 链接 | 优先级 | 状态 |
+|------|------|------|--------|------|
+| 1 | LLM | https://aiweb3.school/zh/handbook/ai/llm/ | 高 | ✅ |
+| 2 | Prompt | https://aiweb3.school/zh/handbook/ai/prompt/ | 高 | ✅ |
+| 3 | Context | https://aiweb3.school/zh/handbook/ai/context/ | 高 | ✅ |
+| 4 | RAG | https://aiweb3.school/zh/handbook/ai/rag/ | 中 | ✅ |
+| 5 | Agent | https://aiweb3.school/zh/handbook/ai/agent/ | 高 | ✅ |
+| 6 | MCP | https://aiweb3.school/zh/handbook/ai/mcp/ | 中 | ✅ |
+| 7 | Frameworks | https://aiweb3.school/zh/handbook/ai/frameworks/ | 中 | ✅ |
+| 8 | Vibe Coding | https://aiweb3.school/zh/handbook/ai/vibe-coding/ | 中 | ✅ |
+| 9 | Evaluation | https://aiweb3.school/zh/handbook/ai/evaluation/ | 低 | ✅ |
+| 10 | Fine-tuning | https://aiweb3.school/zh/handbook/ai/fine-tuning/ | 低 | ✅ |
+| 11 | Inference | https://aiweb3.school/zh/handbook/ai/inference/ | 低 | ✅ |
+
+> 学习总结见 `daily/2026-05-19.md`
 
 ## 第二阶段：AI × Web3 Bridge（预计 2-3 周）
 
