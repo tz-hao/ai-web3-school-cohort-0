@@ -32,4 +32,5 @@ AI x Web3 School 是由 LXDAO 与 ETHPanda 共同发起的面向 builders 的双
 | `handbook-feedback/` | Handbook 反馈（问题、错别字、建议） |
 | `hackathon/` | Hackathon 项目 |
 | `submissions/` | 提交物归档 |
+| `references/` | 概念对比、知识参考 |
 | `templates/` | 打卡模板与任务模板 |
