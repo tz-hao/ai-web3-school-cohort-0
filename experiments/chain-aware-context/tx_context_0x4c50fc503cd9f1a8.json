@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "tx_hash": "0x4c50fc503cd9f1a8e1d8c4e0f8b9a2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
+    "chain": "Ethereum Mainnet",
+    "chain_id": 1,
+    "explorer_url": "https://etherscan.io/tx/0x4c50fc503cd9f1a8e1d8c4e0f8b9a2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
+    "retrieved_at": "2026-05-20 (learning experiment)"
+  },
+  "onchain_facts": {
+    "error": "无法从 ethereum 的区块浏览器 API 读取交易数据。可能是合约内部交易或索引未覆盖。",
+    "tx_hash": "0x4c50fc503cd9f1a8e1d8c4e0f8b9a2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
+    "explorer_url": "https://etherscan.io/tx/0x4c50fc503cd9f1a8e1d8c4e0f8b9a2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9"
+  },
+  "events": [],
+  "interpretation": "",
+  "citations": [],
+  "boundaries": {
+    "facts_from_rpc": [
+      "未获取到 RPC 数据，以下内容仅基于交易哈希"
+    ],
+    "ai_interpretation": []
+  }
+}
