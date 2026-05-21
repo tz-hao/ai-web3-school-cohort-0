@@ -1,7 +1,7 @@
 # Week 1 学习总结 — AI × Web3 School
 
-> 2026-05-21 · 发布平台：X / Twitter
-> 可直接复制发布，每段之间建议配图或空行分隔
+> 2026-05-21 · 发布平台：GitHub
+> 本总结同时作为 WCB 平台的 Week 1 Proof-of-Work 提交
 
 ---
 
@@ -66,9 +66,7 @@ Web3 Tool Use 章节的核心原则就一句：模型可以选择工具，但工
 
 ---
 
-## 发布清单
+## 发布状态
 
-- [ ] 复制以上内容到 X/Twitter 发布
-- [ ] 可选：配一张 repo 截图或 Chain Context Builder 输出截图
-- [ ] 发布后把链接回填到 `daily/2026-05-21.md` 的打卡链接栏
-- [ ] 手动在 WCB 平台提交打卡
+- [x] GitHub：https://github.com/tz-hao/ai-web3-school-cohort-0/blob/main/submissions/week-1-summary.md
+- [ ] WCB 平台打卡：https://web3career.build/zh/programs/AI-Web3-School#tab=learning
