@@ -11,6 +11,13 @@ AI x Web3 School 是由 LXDAO 与 ETHPanda 共同发起的面向 builders 的双
 - **WCB Learning 页面**：https://web3career.build/zh/programs/AI-Web3-School#tab=learning
 - **项目 GitHub**：https://github.com/lxdao-official/aiweb3school
 
+## 学习进度
+
+| 阶段 | 状态 | 完成日期 | Proof-of-Work |
+|------|------|---------|---------------|
+| 第一阶段：AI 基础 | ✅ 完成 | 2026-05-19 | [daily/2026-05-19.md](daily/2026-05-19.md) |
+| 第二阶段 Week 1 | ✅ 完成 | 2026-05-22 | [Week1-PoW.md](Week1-PoW.md) |
+
 ## 隐私提醒
 
 本仓库为 **public**，**禁止**放入以下内容：
