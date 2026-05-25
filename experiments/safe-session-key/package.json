@@ -1,0 +1,21 @@
+{
+  "name": "safe-session-key-experiment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Safe + Session Key deployment on Anvil fork. Demonstrates AI Agent wallet pattern.",
+  "type": "module",
+  "scripts": {
+    "anvil": "anvil --fork-url https://mainnet.base.org --fork-block-number 30000000",
+    "deploy": "tsx src/deploy-safe.ts",
+    "test": "tsx src/test-allowance.ts"
+  },
+  "dependencies": {
+    "@safe-global/protocol-kit": "^5.2.2",
+    "@safe-global/safe-deployments": "^1.37.0",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}
