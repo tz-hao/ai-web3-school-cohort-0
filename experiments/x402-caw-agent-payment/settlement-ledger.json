@@ -1,0 +1,12 @@
+[
+  {
+    "settlementTx": "demo-settlement-5dddaa695e7c6c86",
+    "network": "base",
+    "asset": "USDC",
+    "amount": "0.10",
+    "recipient": "0xServiceProviderTreasury00000000000000000001",
+    "nonce": "6d3d1644-78a9-4bc3-876c-85bdbe4913d4",
+    "requirementHash": "2e2ef4089322d55075d1a79a3cf76a96b3250216cf0ebde1f31311dbd9739f48",
+    "settledAt": "2026-05-28T13:16:39.784Z"
+  }
+]

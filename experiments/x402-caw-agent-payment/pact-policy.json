@@ -1,0 +1,23 @@
+{
+  "id": "pact_week2_x402_caw_demo",
+  "subject": "agent:learning-copilot",
+  "validFrom": "2026-05-28T00:00:00+08:00",
+  "validUntil": "2099-12-31T23:59:59+08:00",
+  "chainAllowlist": ["base"],
+  "assetAllowlist": ["USDC"],
+  "recipientAllowlist": ["0xServiceProviderTreasury00000000000000000001"],
+  "apiAllowlist": ["http://127.0.0.1:4020/v1/infer"],
+  "maxAmountPerPayment": "0.10",
+  "dailyBudget": "1.00",
+  "maxPaymentsPerDay": 10,
+  "requireHumanApprovalAbove": "0.10",
+  "forbiddenActions": [
+    "approve_unlimited",
+    "transfer_native_token",
+    "call_unknown_contract",
+    "change_policy",
+    "withdraw_all"
+  ],
+  "auditRequired": true
+}
+
