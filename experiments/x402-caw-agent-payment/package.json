@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "demo": "node src/demo.js"
+    "demo": "node src/demo.js",
+    "attack-sim": "node src/attack-simulation.js"
   }
 }
 
