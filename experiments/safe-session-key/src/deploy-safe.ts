@@ -17,10 +17,12 @@
  * ⚠️ 本脚本在 Anvil fork 上运行，不涉及任何真实资产。
  */
 
-import Safe, {
+// protocol-kit v5 是 CJS/ESM 双模块包，ESM 下 default 导出在 .default 属性上
+import pkg, {
   PredictedSafeProps,
   SafeAccountConfig,
 } from "@safe-global/protocol-kit";
+const Safe = (pkg as any).default || pkg;
 import {
   createWalletClient,
   createPublicClient,

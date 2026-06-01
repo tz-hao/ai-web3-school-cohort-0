@@ -21,7 +21,7 @@
  * 方法 2: 使用已有的部署地址（如果链上有的话）
  */
 
-import Safe from "@safe-global/protocol-kit";
+import pkg from "@safe-global/protocol-kit";
 import {
   createWalletClient,
   createPublicClient,
