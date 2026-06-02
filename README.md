@@ -17,6 +17,8 @@ AI x Web3 School 是由 LXDAO 与 ETHPanda 共同发起的面向 builders 的双
 |------|------|---------|---------------|
 | 第一阶段：AI 基础 | ✅ 完成 | 2026-05-19 | [daily/2026-05-19.md](daily/2026-05-19.md) |
 | 第二阶段 Week 1 | ✅ 完成 | 2026-05-22 | [Week1-PoW.md](Week1-PoW.md) |
+| 第二阶段 Week 2 | ✅ 完成 | 2026-05-26 | [Week2-PoW.md](Week2-PoW.md) |
+| Week 3：Safe Wallet 深度阅读 | ✅ 完成 | 2026-06-02 | [daily/2026-06-02.md](daily/2026-06-02.md) |
 
 ## 隐私提醒
 
