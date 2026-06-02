@@ -16,6 +16,7 @@ SafePay Guard Wallet is an AI-assisted wallet execution guard for agentic Web3 w
 | `06-sponsor-mentor-questions.md` | Sponsor / mentor question list |
 | `07-cobo-track-fit.md` | Cobo Agentic Wallet track fit |
 | `08-assumptions-failure-fallback.md` | Assumptions, failure modes, and Week 4 fallback plan |
+| `09-scope-control-non-goals.md` | Week 4 scope control and non-goals |
 
 ## Core Direction
 
