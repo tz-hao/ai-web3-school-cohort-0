@@ -19,6 +19,7 @@ SafePay Guard Wallet is an AI-assisted wallet execution guard for agentic Web3 w
 | `09-scope-control-non-goals.md` | Week 4 scope control and non-goals |
 | `10-week4-technical-validation-checklist.md` | Week 4 technical validation checklist |
 | `11-sponsor-sdk-api-integration-plan.md` | Sponsor SDK / API integration plan |
+| `12-sponsor-workshop-notes.md` | Sponsor workshop notes |
 
 ## Core Direction
 
